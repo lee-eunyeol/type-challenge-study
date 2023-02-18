@@ -29,7 +29,6 @@ const pickedTodo: PickedTodo = {
 
 - PickedTodo 에서 **title 프로퍼티와 string type을** 가져오지 못하고  **title 프로퍼티의 타입인 string 만 가져왔다.**
     
-    ![Screen Shot 2023-02-18 at 1.11.53 PM.png](PICK%203d49ef2e6ca342c192b2e1bd8f9b9955/Screen_Shot_2023-02-18_at_1.11.53_PM.png)
     
 
 ### 원인?
