@@ -1,7 +1,7 @@
 # Readonly<T>
 
 <aside>
-💡 READONLY<T> 는 타입(T)의 프로퍼티들을 모두 readonly 상태로 변환한다.
+💡 Readonly<T> 는 타입(T)의 프로퍼티들을 모두 readonly 상태로 변환한다.
 
 </aside>
 
